@@ -2232,5 +2232,13 @@
     "symbol": "A8",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/39170/standard/A8_Token-04_200x200.png?1720798300"
-  }
+  },
+  {
+  "address": "0x4bd880de089d26596bfade44c665a076787f0f17",
+  "chainId": 1,
+  "name": "umaxinucoin",
+  "symbol": "UMAX",
+  "decimals": 18,
+  "logoURI": "https://dd.dexscreener.com/ds-data/tokens/base/0x4bd880de089d26596bfade44c665a076787f0f17.png?size=lg&key=56fd2a"
+}
 ]
